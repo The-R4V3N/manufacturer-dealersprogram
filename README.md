@@ -24,6 +24,7 @@
 # Vehicle Manufacturer-Dealers Program
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Lines of code](https://tokei.rs/b1/github/The-R4V3N/manufacturer-dealersprogram)
 
 This program implements a thread-safe and synchronized vehicle manufacturer-dealers program in C++. The program simulates the interaction between multiple manufacturers and dealerships in a controlled environment. It ensures that all operations are properly synchronized to prevent race conditions and maintain data integrity.
 
